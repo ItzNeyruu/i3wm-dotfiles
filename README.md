@@ -3,7 +3,7 @@ Simple i3wm Ricing Dotfiles
 
 ### things needed for dotfiles:
 - `i3`
-- `i3lock-color` - Advanced Customization
+- `i3lock-color` - Advanced Customization for Lock Screen
 - `nitrogen` - Wallpaper
 - `polybar` - Bar
 - `rofi` Applications Menu, Disk Menu, and Power Menu
