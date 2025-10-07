@@ -25,4 +25,5 @@ Simple i3wm Ricing Dotfiles
 | <kbd>Super</kbd> + <kbd>F4</kbd> | Kill Apps |
 | <kbd>Super</kbd> + <kbd>F12</kbd> | Power Menu |
 | <kbd>Super</kbd> + <kbd>F</kbd> | File Manager |
+
 The rest is included in i3wm
