@@ -1,0 +1,12 @@
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+element-icon {
+	size: 30;
+}
+
+listview {
+	lines: 5;
+}
+window {
+	width: 20em;
+}

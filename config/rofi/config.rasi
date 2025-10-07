@@ -1,0 +1,19 @@
+configuration {
+	display-drun: "Applications";
+	display-window: "Windows";
+	drun-display-format: "{icon} {name}";
+	show-icons: true;
+}
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+element-icon {
+	size: 30;
+}
+
+listview {
+	lines: 13;
+}
+window {
+	width: 25em;
+}
