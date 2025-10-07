@@ -84,6 +84,9 @@ bindsym $mod+F4 kill
 # powermenu
 bindsym $mod+F12 exec ~/.config/rofi/powermenu.sh
 
+# screenshot
+bindsym $mod+Shift+s exec scrot -s ~/Pictures/screenshot_%Y-%m-%d_%H-%M-%S.png
+
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
