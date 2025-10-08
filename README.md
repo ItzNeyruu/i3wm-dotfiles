@@ -45,3 +45,6 @@ The rest is included in i3wm
 ### Polybar (Network and Battery Animated Charging)
 <img src="https://raw.githubusercontent.com/ItzNeyruu/i3wm-dotfiles/refs/heads/main/Screenshot/polybar1.gif"/></td><td>
 <img src="https://raw.githubusercontent.com/ItzNeyruu/i3wm-dotfiles/refs/heads/main/Screenshot/polybar2.gif"/></td><td>
+
+### Fastfetch
+<img src="https://raw.githubusercontent.com/ItzNeyruu/i3wm-dotfiles/refs/heads/main/Screenshot/fastfetch.png"/></td><td>
