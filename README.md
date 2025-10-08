@@ -1,15 +1,16 @@
 # i3wm-dotfiles
 Simple i3wm Ricing Dotfiles
 
-### things needed for dotfiles:
+### things needed for dotfiles
 - `i3`
 - `i3lock-color` - Advanced Customization for Lock Screen
 - `nitrogen` - Wallpaper
 - `polybar` - Bar
 - `rofi` Applications Menu, Disk Menu, and Power Menu
 - `picom` Compositor for X11
+- `scrot` Screenshot (but I don't recommend using scrot(see photos on the home screenshot)
 
-### Font:
+### Font
 - `Symbols Nerd Font`
 - `Font Awesome 7 Free`
 - `JetBrainsMono Nerd Font`
@@ -27,3 +28,9 @@ Simple i3wm Ricing Dotfiles
 | <kbd>Super</kbd> + <kbd>F</kbd> | File Manager |
 
 The rest is included in i3wm
+
+## Screenshot
+
+### Home
+
+<img src="https://raw.githubusercontent.com/ItzNeyruu/i3wm-dotfiles/refs/heads/main/Screenshot/home.png"/></td><td>
