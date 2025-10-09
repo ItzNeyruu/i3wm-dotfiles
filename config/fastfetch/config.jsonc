@@ -5,10 +5,7 @@
 	},
 	"modules": [
 	"title",
-		{
-			"type": "separator",
-			"key": "---------------------"
-		},
+	"break",
 		{
 			"type": "custom",
 			"key": "o------------[OS]-------------o",
